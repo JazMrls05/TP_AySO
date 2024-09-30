@@ -1,2 +1,8 @@
+Debian-gdm:x:112:121:Gnome Display Manager:/var/lib/gdm3:/bin/false
+gnome-initial-setup:x:111:65534::/run/gnome-initial-setup/:/bin/false
+jazmin:x:1000:1000:jazmin,,,:/home/jazmin:/bin/bash
 root:x:0:0:root:/root:/bin/bash
+speech-dispatcher:x:105:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
 sync:x:4:65534:sync:/bin:/bin/sync
+tss:x:100:107:TPM software stack,,,:/var/lib/tpm:/bin/false
+yo:x:1001:1001:yo,,,:/home/yo:/bin/bash
